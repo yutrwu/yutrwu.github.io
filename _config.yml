@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yutong Wu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate student in Electrical Engineering at Brown University"
   location         : "Rhode Island, United States"
-  employer         : "Brown University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "yutong.r.wu@gmail.com"
